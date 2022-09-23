@@ -8,5 +8,5 @@ edit links
 
 search for file and open through spotlight eg. "LinkedIn.command"
 
-createed electron boilerplate
+created electron boilerplate
 
